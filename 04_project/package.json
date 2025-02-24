@@ -1,0 +1,18 @@
+{
+  "name": "04_project",
+  "version": "1.0.0",
+  "description": "backend with js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Pareep Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
