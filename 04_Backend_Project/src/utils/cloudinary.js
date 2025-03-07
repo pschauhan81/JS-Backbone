@@ -30,8 +30,6 @@ cloudinary.v2.uploader.upload("https://upload.wikimedia.org/wikimedia/commons/a/
 {public_id:"olympic_flag"},
 function(error,result) {console.log(result); }  )
 
-
-
 // (async function() {
 
 //     // Configuration
